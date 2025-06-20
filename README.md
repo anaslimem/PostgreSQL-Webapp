@@ -28,7 +28,7 @@ This is a small web application that allows users to perform basic **CRUD** (Cre
 1. Clone this repository:
    ```bash
    git clone <repository-url>
-   cd <repository-folder>
+   cd PostgreSQL-Webapp
    ```
 
 2. Create a .env file in the root directory with your PostgreSQL credentials:
