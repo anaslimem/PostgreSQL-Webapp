@@ -27,7 +27,7 @@ This is a small web application that allows users to perform basic **CRUD** (Cre
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/anaslimem/PostgreSQL-Webapp.git
    cd PostgreSQL-Webapp
    ```
 
